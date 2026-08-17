@@ -31,4 +31,5 @@ while n1 != n3:
 
 print("\033[1;35mPARABÉNS,VOCE ACERTOU O NUMERO {} COM {} TENTATIVAS!!!\033[m".format(n3,palpites))
 
+# isso é um treinamento git e github
 
